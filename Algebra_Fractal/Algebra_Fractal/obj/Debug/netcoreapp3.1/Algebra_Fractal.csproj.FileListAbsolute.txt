@@ -1,0 +1,16 @@
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.exe
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.deps.json
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.runtimeconfig.json
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.runtimeconfig.dev.json
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.dll
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\bin\Debug\netcoreapp3.1\Algebra_Fractal.pdb
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.csprojAssemblyReference.cache
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.Form1.resources
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.csproj.GenerateResource.cache
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.AssemblyInfoInputs.cache
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.AssemblyInfo.cs
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.dll
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.pdb
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.genruntimeconfig.cache
+C:\Users\Daniil\source\repos\Algebra_Fractal\Algebra_Fractal\obj\Debug\netcoreapp3.1\Algebra_Fractal.Properties.Resources.resources
